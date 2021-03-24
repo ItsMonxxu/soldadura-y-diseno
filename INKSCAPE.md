@@ -8,3 +8,7 @@ La explosion de una bomba por la guerra.
 La paloma es el simbolo de la paz.
 
 ¿Has utilizado algun simbolo?¿cuaes?  El corazon, ña paloma de la paz, la bandera de  KKK.
+
+
+
+[NOSE](https://github.com/ItsMonxxu/soldadura-y-diseno/blob/main/dibujo.svgVGFNGFNFGNFBNFXGNZFGTBN.svg)
