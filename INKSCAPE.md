@@ -6,3 +6,5 @@ El corazon por que significa el amor.
 La bandera de KKK poe el odio que ellos tenian.
 La explosion de una bomba por la guerra.
 El pajaro es el simbolo de la paz.
+
+¿Has utilizado algun simbolo?¿cuaes?  El corazon, el pajaro de la paz, la bandera de  KKK.
