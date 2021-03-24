@@ -1,4 +1,4 @@
 # soldadura-y-diseno
 
 
-cosas de inskape
+cosas de inksape
