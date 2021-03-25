@@ -12,3 +12,17 @@ La paloma es el simbolo de la paz.
 
 
 ![NOSE](https://github.com/ItsMonxxu/soldadura-y-diseno/blob/main/dibujo.svgVGFNGFNFGNFBNFXGNZFGTBN.svg)
+
+
+![imagen](https://user-images.githubusercontent.com/78345639/112448001-39b61100-8d52-11eb-8c14-e4c65a655830.png)
+circulo 03
+
+![imagen](https://user-images.githubusercontent.com/78345639/112448293-8e598c00-8d52-11eb-9463-756de6957394.png)
+circulo 03
+
+![imagen](https://user-images.githubusercontent.com/78345639/112448373-9f0a0200-8d52-11eb-8d47-19cd674f7dcf.png)
+circulo 02
+
+![imagen](https://user-images.githubusercontent.com/78345639/112448431-ab8e5a80-8d52-11eb-948e-ee68bce07a20.png)
+circulo 03
+
