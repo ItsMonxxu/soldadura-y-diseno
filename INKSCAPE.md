@@ -1,5 +1,7 @@
 # inkscape
 
+## Ejercicio de conceptos
+
 ![amor, guerra, paz, odio](https://user-images.githubusercontent.com/78345639/112286713-e4173100-8c8b-11eb-829d-89f24e1d8e81.png)
 
 El corazon por que significa el amor.
@@ -9,9 +11,40 @@ La paloma es el simbolo de la paz.
 
 ¿Has utilizado algun simbolo?¿cuaes?  El corazon, ña paloma de la paz, la bandera de  KKK.
 
+## Ejercicio de Rasterización
 
-
+Imagen vectorial:
 ![NOSE](https://github.com/ItsMonxxu/soldadura-y-diseno/blob/main/dibujo.svgVGFNGFNFGNFBNFXGNZFGTBN.svg)
+
+Imagen rasterizada a 3ppp:
+
+Imagen rasterizada a 50ppp:
+
+Imagen rasterizada a 150ppp:
+
+## Ejercicio de Vectorización
+
+Imagen original rasterizada (cuadro de Rosa Bonheur)
+
+[]
+
+Imagen rasterizada 01
+
+Imagen rasterizada 02
+
+Imagen rasterizada 03
+
+Imagen rasterizada 04
+
+Imagen rasterizada 05
+
+## Ejercicio de relleno, color de trazo y estilo de trazo
+
+Dibujo original: 
+
+Dibujo modificado:
+
+Capturas de las modificaciones: 
 
 
 ![imagen](https://user-images.githubusercontent.com/78345639/112448001-39b61100-8d52-11eb-8c14-e4c65a655830.png)
