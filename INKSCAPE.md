@@ -59,3 +59,10 @@ circulo 02
 ![imagen](https://user-images.githubusercontent.com/78345639/112448431-ab8e5a80-8d52-11eb-948e-ee68bce07a20.png)
 circulo 03
 
+
+![imagen](https://user-images.githubusercontent.com/78345639/113998439-5cb7e900-9859-11eb-94c4-0c482dd13c51.png)
+Señal circulo
+
+![imagen](https://user-images.githubusercontent.com/78345639/113998574-7c4f1180-9859-11eb-9d8c-1ab846175637.png)
+
+
