@@ -67,7 +67,7 @@ Señal circulo
 Icono londres prieba 1
 
 ![imagen](https://user-images.githubusercontent.com/78345639/114018565-ac081480-986d-11eb-80b0-f85962086738.png)
-Icono londres hecho por mi prueba 2.
+Logo Mitsubishi creado por mi(a quedado un poco raro)
 
 
 
