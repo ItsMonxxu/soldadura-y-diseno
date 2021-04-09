@@ -64,8 +64,10 @@ circulo 03
 Señal circulo
 
 ![imagen](https://user-images.githubusercontent.com/78345639/113998574-7c4f1180-9859-11eb-9d8c-1ab846175637.png)
+Icono londres prieba 1
 
 ![imagen](https://user-images.githubusercontent.com/78345639/114018565-ac081480-986d-11eb-80b0-f85962086738.png)
+Icono londres hecho por mi prueba 2.
 
 
 
