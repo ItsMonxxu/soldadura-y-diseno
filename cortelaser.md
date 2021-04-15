@@ -18,5 +18,6 @@ Aided(aydado por ordenador)
 
 ## Láser 
 
-La laser que tenemos en castelldefels se configura como si fuera una impresora.   
+La laser que tenemos en castelldefels se configura como si fuera una impresora.  
 
+Converger(que los rayos de un az se unan en un punto   )
