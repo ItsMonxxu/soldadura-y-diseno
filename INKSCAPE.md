@@ -70,4 +70,11 @@ Icono londres prieba 1
 Logo Mitsubishi creado por mi(a quedado un poco raro)
 
 
+Corazon hecho en inkscape.(es para fresarlo)
+![imagen](https://user-images.githubusercontent.com/78345639/114833488-efafd080-9dcf-11eb-99de-8f7834d25869.png)
+
+![imagen](https://user-images.githubusercontent.com/78345639/114833585-0b1adb80-9dd0-11eb-9aae-0dc4e1c86a11.png)
+Parte final del corazon para fresarlo.
+
+
 
