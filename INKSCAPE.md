@@ -78,7 +78,7 @@ He cojido una foto de un  corazon para saber mas o menos como hacerlo lo mejor p
 ![imagen](https://user-images.githubusercontent.com/78345639/114833585-0b1adb80-9dd0-11eb-9aae-0dc4e1c86a11.png)
 Parte final del corazon para el laser.(son 2 redondas y un quadrado)
 
-Esto es el corazon ya medido para fel laser.
+Esto es el corazon ya medido para el laser.
 Para ponerlo medido y todo he cojido y he puesto la medida 50mm 50mm.
 lo he guardado y lo he subido aqui y ya esta.
 Me ha quedado bastante bien y me ha costado un poco crearlo.
