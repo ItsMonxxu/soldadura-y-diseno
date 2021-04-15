@@ -81,6 +81,7 @@ Parte final del corazon para fresarlo.(son 2 redondas y un quadrado)
 Esto es el corazon ya medido para fresarlo solo queda fresarlo.
 Para ponerlo medido y todo he cojido y he puesto la medida 50 mm 50 mm.
 lo he guardado y lo he subido aqui y ya esta.
+Me ha quedado bastante bien y me ha costado un poco crearlo.
 ![imagen](https://user-images.githubusercontent.com/78345639/114840186-d9594300-9dd6-11eb-80cd-f6262452b7ae.png)
 
 
