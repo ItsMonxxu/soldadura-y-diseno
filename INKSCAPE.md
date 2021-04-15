@@ -70,18 +70,19 @@ Icono londres prieba 1
 Logo Mitsubishi creado por mi(a quedado un poco raro)
 
 
-Corazon hecho en inkscape.(es para fresarlo)
+Corazon hecho en inkscape.(es para el laser)
 He cojido una foto de un  corazon para saber mas o menos como hacerlo lo mejor posible, he empezado con un triangulo y dos redondas, hasta que ha venido el professor y me ha dicho que lo girara 45º grados y que en vez de unm triangulo que usara un quadrado y lo he hecho y me ha quedado bastante bien.     
 
 ![imagen](https://user-images.githubusercontent.com/78345639/114833488-efafd080-9dcf-11eb-99de-8f7834d25869.png)
 
 ![imagen](https://user-images.githubusercontent.com/78345639/114833585-0b1adb80-9dd0-11eb-9aae-0dc4e1c86a11.png)
-Parte final del corazon para fresarlo.(son 2 redondas y un quadrado)
+Parte final del corazon para el laser.(son 2 redondas y un quadrado)
 
-Esto es el corazon ya medido para fresarlo solo queda fresarlo.
-Para ponerlo medido y todo he cojido y he puesto la medida 50 mm 50 mm.
+Esto es el corazon ya medido para fel laser.
+Para ponerlo medido y todo he cojido y he puesto la medida 50mm 50mm.
 lo he guardado y lo he subido aqui y ya esta.
 Me ha quedado bastante bien y me ha costado un poco crearlo.
+
 ![imagen](https://user-images.githubusercontent.com/78345639/114840186-d9594300-9dd6-11eb-80cd-f6262452b7ae.png)
 
 
