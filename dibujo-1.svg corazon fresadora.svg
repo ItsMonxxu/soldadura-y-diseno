@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg1485"
+   inkscape:version="1.0.2 (394de47547, 2021-03-26)"
+   sodipodi:docname="dibujo-1.svg corazon fresadora.svg">
+  <defs
+     id="defs1479">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1426"
+       x="-4.3977343e-05"
+       width="1.000088"
+       y="-4.2449657e-05"
+       height="1.0000849">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0018905049"
+         id="feGaussianBlur1428" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="30.089281"
+     inkscape:cy="114.69974"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1352"
+     inkscape:window-height="1023"
+     inkscape:window-x="50"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1482">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1039"
+       style="mix-blend-mode:normal;fill:#000000;fill-opacity:0.99;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.999927;filter:url(#filter1426)"
+       d="M 139.37305,33.433594 A 132.28346,132.28346 0 0 0 7.0898438,165.7168 132.28346,132.28346 0 0 0 8.6367188,185.88867 V 437.06445 H 256.79688 a 132.28346,132.28346 0 0 0 9.49609,0.3418 132.28346,132.28346 0 0 0 132.2832,-132.2832 132.28346,132.28346 0 0 0 -125.37109,-132.10157 v -0.52343 h -1.72266 a 132.28346,132.28346 0 0 0 0.17383,-6.78125 132.28346,132.28346 0 0 0 -132.2832,-132.283206 z"
+       transform="matrix(0.08659854,0,0,0.08659854,7.2673853,4.7628328)" />
+  </g>
+</svg>
