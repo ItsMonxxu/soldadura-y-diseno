@@ -71,6 +71,8 @@ Logo Mitsubishi creado por mi(a quedado un poco raro)
 
 
 Corazon hecho en inkscape.(es para fresarlo)
+He cojido una foto de un  corazon para saber mas o menos como hacerlo lo mejor posible, he empezado con un triangulo y dos redondas, hasta que ha venido el professor y me ha dicho que lo girara 45º grados y que en vez de unm triangulo que usara un quadrado y lo he hecho y me ha quedado bastante bien.
+
 ![imagen](https://user-images.githubusercontent.com/78345639/114833488-efafd080-9dcf-11eb-99de-8f7834d25869.png)
 
 ![imagen](https://user-images.githubusercontent.com/78345639/114833585-0b1adb80-9dd0-11eb-9aae-0dc4e1c86a11.png)
