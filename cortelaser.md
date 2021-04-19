@@ -1,6 +1,6 @@
-#### Corte láser
+# Corte láser
 
-##### Apuntes de clase de corte láser
+## Apuntes de clase de corte láser
 
 Estos son apuntes
 
@@ -9,22 +9,22 @@ http://academy.cba.mit.edu/classes/computer_cutting/index.html
 
 
 
-###### Diferentes maquinas de corte.
+### Diferentes maquinas de corte.
 
-###### CAD y CAM y diferencias 
+### CAD y CAM y diferencias 
 
 
 CAD(Computer Aided Design)
 CAM(Computer Aided Machining)
 Aided(aydado por ordenador)
 
-###### Láser 
+### Láser 
 
 La laser que tenemos en castelldefels se configura como si fuera una impresora.  
 
 Converger(que los rayos de un az se unan en un punto)
 
-##### Diseño inicial para cortar con láser
+### Diseño inicial para cortar con láser
 
 ¿Qué imagen he escogido y por qué?
 
@@ -47,7 +47,7 @@ Me ha quedado bastante bien y me ha costado un poco crearlo.
 ![imagen](https://user-images.githubusercontent.com/78345639/114840186-d9594300-9dd6-11eb-80cd-f6262452b7ae.png)
 
 
-###### Viage a la UPC
+### Viage a la UPC
 
 
 El viaje a la UPC fue muy bueno y la UPC fue muy buena, pero si el profesor no es buen profesor y me aburri cuando el explicaba por que no sabe explicar,pero lo entendi todo. Lo pasé bien.
