@@ -29,7 +29,7 @@ La tipografía es una fuente de texto que le permite cambiar el texto y tiene un
 ## Viage a la UPC
 
 
-El viaje a la UPC fue muy bueno y la UPC fue muy buena, pero si el profesor no es buen profesor y me aburri cuando el explicaba por que no sabe explicar. Lo pasé bien.
+El viaje a la UPC fue muy bueno y la UPC fue muy buena, pero si el profesor no es buen profesor y me aburri cuando el explicaba por que no sabe explicar,pero lo entendi todo. Lo pasé bien.
 
 https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/inkscape.md#dise%C3%B1o-con-inkscape
 
