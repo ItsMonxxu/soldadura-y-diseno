@@ -25,11 +25,11 @@ Converger(que los rayos de un az se unan en un punto)
 
 ## Tipografía
 
-Типографика - это текстовый шрифт, который позволяет изменять текст и имеет шрифт, отличный от обычного.
-
+La tipografía es una fuente de texto que le permite cambiar el texto y tiene una fuente diferente a la normal.
 ## Viage a la UPC
 
-Поездка в UPC была очень хорошей, и UPC был очень хорошим, но учитель отличный учитель. Я хорошо провел время, но если бы этого учителя не было, я бы лучше провел время.
+
+El viaje a la UPC fue muy bueno y la UPC fue muy buena, pero el profesor es una mierda profesor. Lo pasé bien, pero si el profesor no uviera estado alli, lme lo hubiera pasado mejor.
 
 https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/inkscape.md#dise%C3%B1o-con-inkscape
 
