@@ -23,12 +23,12 @@ La laser que tenemos en castelldefels se configura como si fuera una impresora.
 Converger(que los rayos de un az se unan en un punto)
 
 
-## Tipografía
+## Друкарня
 
-La tipografia es un tipo de letra diferente puedes elegir la que quieras.
+Шрифт ин як ҳарфест, ки шумо метавонед шакли дилхоҳатонро интихоб кунед.
 
-## Viaje a la UPC
+## Chuyến đi đến UPC
 
-El viage a la UPC fue muy bien y la UPC estaba muy bien , pero el professor es una miera como professor. Me lo pase muy bien pero si no estubiera este professor me lo ubiera pasado mejor.
+Rêwîtiya UPC pir baş bû û UPC pir baş bû, lê profesor mamosteyek mezin e. Min demek xweş derbas kir, lê ku ev profesor ne li wir bûya, min ê demek xweştir derbas bikira.
 
 
