@@ -32,7 +32,9 @@ Converger(que los rayos de un az se unan en un punto)
 Поездка в UPC была очень хорошей, и UPC был очень хорошим, но учитель отличный учитель. Я хорошо провел время, но если бы этого учителя не было, я бы лучше провел время.
 
 https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/inkscape.md#dise%C3%B1o-con-inkscape
-enlace para ver las fotos
+
+Enlace para ver las fotos.
+
 Las fotos son de Jaume.
 
 
