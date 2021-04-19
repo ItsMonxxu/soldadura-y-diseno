@@ -20,4 +20,11 @@ Aided(aydado por ordenador)
 
 La laser que tenemos en castelldefels se configura como si fuera una impresora.  
 
-Converger(que los rayos de un az se unan en un punto   )
+Converger(que los rayos de un az se unan en un punto)
+
+
+## Tipografía
+
+La tipografia es un tipo de letra diferente puedes elegir la que quieras.
+
+
