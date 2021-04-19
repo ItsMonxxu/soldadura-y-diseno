@@ -86,3 +86,7 @@ Me ha quedado bastante bien y me ha costado un poco crearlo.
 ![imagen](https://user-images.githubusercontent.com/78345639/114840186-d9594300-9dd6-11eb-80cd-f6262452b7ae.png)
 
 
+## Tipografía
+
+La tipografía es una fuente de texto que le permite cambiar el texto y tiene una fuente diferente a la normal.
+[faltan cosas]
