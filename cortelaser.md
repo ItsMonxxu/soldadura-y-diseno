@@ -27,4 +27,6 @@ Converger(que los rayos de un az se unan en un punto)
 
 La tipografia es un tipo de letra diferente puedes elegir la que quieras.
 
+## Viaje a la UPC 
 
+La  UPC esta muy bien pero el profesor que nos llevo alli es una mierda como professor
