@@ -28,7 +28,12 @@ Converger(que los rayos de un az se unan en un punto)
 
 ¿Qué imagen he escogido y por qué?
 
-¿Qué características tiene la imagen?
+Yo escogí hacer un corazón. Y decidi hacerlo en vez de tomarlo para así tener más experiencia con inkscape.
+
+¿Qué características tiene la imagen para poderla cortar?
+
+Necesitamos que la imagen esté en blanco y negro y que tenga una línea roja que será por donde va a cortar (contornear) el láser. 
+
 
 Proceso de creación la imagen:
 
@@ -37,12 +42,14 @@ He cojido una foto de un  corazon para saber mas o menos como hacerlo lo mejor p
 ![imagen](https://user-images.githubusercontent.com/78345639/114833488-efafd080-9dcf-11eb-99de-8f7834d25869.png)
 
 ![imagen](https://user-images.githubusercontent.com/78345639/114833585-0b1adb80-9dd0-11eb-9aae-0dc4e1c86a11.png)
+
 Parte final del corazon para el laser.(son 2 redondas y un quadrado)
 
 Esto es el corazon ya medido para el laser.
 Para ponerlo medido y todo he cojido y he puesto la medida 50mm 50mm.
 lo he guardado y lo he subido aqui y ya esta.
 Me ha quedado bastante bien y me ha costado un poco crearlo.
+
 
 ![imagen](https://user-images.githubusercontent.com/78345639/114840186-d9594300-9dd6-11eb-80cd-f6262452b7ae.png)
 
