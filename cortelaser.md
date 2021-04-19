@@ -23,12 +23,19 @@ La laser que tenemos en castelldefels se configura como si fuera una impresora.
 Converger(que los rayos de un az se unan en un punto)
 
 
-## Друкарня
+## Tipografía
 
-Шрифт ин як ҳарфест, ки шумо метавонед шакли дилхоҳатонро интихоб кунед.
+Типографика - это текстовый шрифт, который позволяет изменять текст и имеет шрифт, отличный от обычного.
 
-## Chuyến đi đến UPC
+## Viage a la UPC
 
-Rêwîtiya UPC pir baş bû û UPC pir baş bû, lê profesor mamosteyek mezin e. Min demek xweş derbas kir, lê ku ev profesor ne li wir bûya, min ê demek xweştir derbas bikira.
+Поездка в UPC была очень хорошей, и UPC был очень хорошим, но учитель отличный учитель. Я хорошо провел время, но если бы этого учителя не было, я бы лучше провел время.
+
+https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/inkscape.md#dise%C3%B1o-con-inkscape
+las fotos son de Jaume.
+
+
+
+
 
 
