@@ -65,7 +65,14 @@ Enlace para ver las fotos.
 
 Las fotos son de Jaume.
 
+## Pieza cortada
 
+La pieza cortada es un corazon la foto no la he podido poner por que no tengo la foto aqui mismo para ponerla
+
+## Piezas adicionales
+
+La pieza adicional la tengo hecha y es mi apodo(ItsMonxxu)
+la foto no la tengo aqui para ponerla.
 
 
 
