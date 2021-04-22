@@ -29,4 +29,4 @@ He ido a archivo, a propiedades del documento, despues he cambiado el tamaño pe
 
 ![imagen](https://user-images.githubusercontent.com/78345639/115704649-ec868880-a36b-11eb-8287-bdea3b4f5cd8.png)
 
-
+![imagen](https://user-images.githubusercontent.com/78345639/115704881-2f486080-a36c-11eb-89a2-cba5e9418e37.png)
