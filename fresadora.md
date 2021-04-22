@@ -74,19 +74,30 @@ paso 1
 paso 2
 
 
+![imagen](https://user-images.githubusercontent.com/78345639/115706898-6f104780-a36e-11eb-8883-c51d2e621e81.png)
 
 capturas a las diferentes configuraciones
 
 ![imagen](https://user-images.githubusercontent.com/78345639/115706103-91ee2c00-a36d-11eb-9fa8-e36a0c68d790.png)
 
+![imagen](https://user-images.githubusercontent.com/78345639/115706917-733c6500-a36e-11eb-9ae4-a3a02fdebfdf.png)
+
 ![imagen](https://user-images.githubusercontent.com/78345639/115706157-9f0b1b00-a36d-11eb-9822-f70254a8bcf4.png)
+
+![imagen](https://user-images.githubusercontent.com/78345639/115706925-75062880-a36e-11eb-929e-662df416a1bc.png)
 
 ![imagen](https://user-images.githubusercontent.com/78345639/115706214-afbb9100-a36d-11eb-9451-230fdf4f7050.png)
 
+![imagen](https://user-images.githubusercontent.com/78345639/115706929-76375580-a36e-11eb-9fc8-ed9c29f363e5.png)
+
 ![imagen](https://user-images.githubusercontent.com/78345639/115706270-bd711680-a36d-11eb-97fd-71d006c78ed5.png)
 
+![imagen](https://user-images.githubusercontent.com/78345639/115706938-78011900-a36e-11eb-9373-0168cd8aeaec.png)
 
 ### Archivo .rml
 
+![imagen](https://user-images.githubusercontent.com/78345639/115706951-7c2d3680-a36e-11eb-8ddb-1f4b6ec4a392.png)
+
 https://github.com/ItsMonxxu/soldadura-y-diseno/blob/main/logo%20fresado%202.png.rml
 
+![imagen](https://user-images.githubusercontent.com/78345639/115706965-7f282700-a36e-11eb-9404-c5ed4a23abbf.png)
