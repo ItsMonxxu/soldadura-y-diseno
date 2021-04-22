@@ -27,5 +27,6 @@ He ido a archivo, a propiedades del documento, despues he cambiado el tamaño pe
 
 ![imagen](https://user-images.githubusercontent.com/78345639/115704422-a7625680-a36b-11eb-90c4-e9842fe2ca4e.png)
 
+![imagen](https://user-images.githubusercontent.com/78345639/115704649-ec868880-a36b-11eb-8287-bdea3b4f5cd8.png)
 
 
