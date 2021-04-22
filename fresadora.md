@@ -2,6 +2,9 @@
 
 ¿De dónde he sacado esta imagen? 
 
+https://tell.wtf/
+
+La fuente la he sacado de esta pagina pero el nombre lo he escrito yo.
 
 ![imagen](https://user-images.githubusercontent.com/78345639/115694377-17b7aa80-a361-11eb-8eef-245b01c95952.png)
 
@@ -48,13 +51,28 @@ He ido a archivo, a propiedades del documento, despues he cambiado el tamaño pe
 
 ### Enlace a mods 
 
+http://mods.cba.mit.edu/
+
 paso 1
+
+
 
 paso 2
 
+
+
 capturas a las diferentes configuraciones
+
+![imagen](https://user-images.githubusercontent.com/78345639/115706103-91ee2c00-a36d-11eb-9fa8-e36a0c68d790.png)
+
+![imagen](https://user-images.githubusercontent.com/78345639/115706157-9f0b1b00-a36d-11eb-9822-f70254a8bcf4.png)
+
+![imagen](https://user-images.githubusercontent.com/78345639/115706214-afbb9100-a36d-11eb-9451-230fdf4f7050.png)
+
+![imagen](https://user-images.githubusercontent.com/78345639/115706270-bd711680-a36d-11eb-97fd-71d006c78ed5.png)
 
 
 ### Archivo .rml
 
+https://github.com/ItsMonxxu/soldadura-y-diseno/blob/main/logo%20fresado%202.png.rml
 
