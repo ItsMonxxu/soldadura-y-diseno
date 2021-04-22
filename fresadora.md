@@ -78,6 +78,8 @@ paso 2
 
 capturas a las diferentes configuraciones
 
+![imagen](https://user-images.githubusercontent.com/78345639/115707011-8c451600-a36e-11eb-9869-f3f56586218f.png)
+
 ![imagen](https://user-images.githubusercontent.com/78345639/115706103-91ee2c00-a36d-11eb-9fa8-e36a0c68d790.png)
 
 ![imagen](https://user-images.githubusercontent.com/78345639/115706917-733c6500-a36e-11eb-9ae4-a3a02fdebfdf.png)
