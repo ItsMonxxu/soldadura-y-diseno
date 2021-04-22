@@ -66,16 +66,6 @@ http://mods.cba.mit.edu/
 
 ![imagen](https://user-images.githubusercontent.com/78345639/115706721-3ff9d600-a36e-11eb-85b0-1d7f7e41d8bb.png)
 
-paso 1
-
-
-![imagen](https://user-images.githubusercontent.com/78345639/115706721-3ff9d600-a36e-11eb-85b0-1d7f7e41d8bb.png)
-
-paso 2
-
-
-![imagen](https://user-images.githubusercontent.com/78345639/115706898-6f104780-a36e-11eb-8883-c51d2e621e81.png)
-
 capturas a las diferentes configuraciones
 
 ![imagen](https://user-images.githubusercontent.com/78345639/115707011-8c451600-a36e-11eb-9869-f3f56586218f.png)
