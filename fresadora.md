@@ -7,6 +7,11 @@ Para hacer esto he usado inkscape
 Lo que he hecho es buscar por internet una fuente que a mi me guste he puesto mi nombre y despues he puesto el lienzo mas pequeño (60mm x 8mm) y el  nombre tambien despues lo he guardado y lo he subido aqui
 
 
+¿Cómo saqué la herramienta de transformar?
+
+¿Cómo hice para cambiar el tamaño del lienzo?
+
+
 ### Texto escrito en binario
 
 01010000 01100001 01110010 01100001 00100000 01101000 01100001 01100011 01100101 01110010 00100000 01100101 01110011 01110100 01101111 00100000 01101000 01100101 00100000 01110101 01110011 01100001 01100100 01101111 00100000 01101001 01101110 01101011 01110011 01100011 01100001 01110000 01100101
