@@ -9,8 +9,6 @@ Hice este texto:
 ```
 Para hacer esto he usado inkscape
 
-Lo que he hecho es buscar por internet una fuente que a mi me guste he puesto mi nombre y despues he puesto el lienzo mas pequeño (60mm x 8mm) y el nombre tambien despues lo he guardado y lo he subido aqui.
-
 ¿Cómo saqué la herramienta de transformar?
 
 He ido a ojeto y le he dado a transformar.
@@ -18,6 +16,9 @@ He ido a ojeto y le he dado a transformar.
 ¿Cómo hice para cambiar el tamaño del lienzo?
 
 He ido a archivo, a propiedades del documento, despues he cambiado el tamaño personalizado. 
+
+Lo que he hecho es buscar por internet una fuente que a mi me guste he puesto mi nombre y despues he puesto el lienzo mas pequeño (60mm x 8mm) y el nombre tambien despues lo he guardado y lo he subido aqui.
+
 
 ```
 
