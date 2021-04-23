@@ -1,6 +1,10 @@
 # FRESADORA ![imagen](https://user-images.githubusercontent.com/78345639/115704476-b6e19f80-a36b-11eb-800b-293797fb4497.png)
 
+![imagen](https://user-images.githubusercontent.com/78345639/115835421-899dfb80-a416-11eb-9932-a6c835702d3e.png)
+
 ¿De dónde he sacado esta imagen? 
+
+![imagen](https://user-images.githubusercontent.com/78345639/115835434-8c98ec00-a416-11eb-8d04-3b3f664ccc62.png)
 
 https://tell.wtf/
 
