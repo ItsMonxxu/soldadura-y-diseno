@@ -4,3 +4,6 @@
 
 https://github.com/ItsMonxxu/soldadura-y-diseno/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2012-10-32.png
 
+![imagen](https://user-images.githubusercontent.com/78345639/115860014-35544500-a431-11eb-92ef-f889a3247663.png)
+
+
