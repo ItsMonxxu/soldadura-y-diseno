@@ -12,3 +12,7 @@ https://github.com/ItsMonxxu/soldadura-y-diseno/blob/main/Captura%20de%20pantall
 
 ![imagen](https://user-images.githubusercontent.com/78345639/115861069-9fb9b500-a432-11eb-816e-3b96043627e7.png)
 
+![imagen](https://user-images.githubusercontent.com/78345639/115862664-b06b2a80-a434-11eb-914f-3b0fa9c77d03.png)
+
+![imagen](https://user-images.githubusercontent.com/78345639/115863069-3a1af800-a435-11eb-957b-33ec2875ff7e.png)
+
